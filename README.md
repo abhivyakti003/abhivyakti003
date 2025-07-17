@@ -1,57 +1,72 @@
-<h1 align="center">Hi there, I'm Abhivyakti 👋</h1>
+<h1 align="center">👋 Hi, I'm Abhivyakti</h1>
 
 <p align="center">
-  <b>Aspiring AI Researcher · Deep Learning Enthusiast · Creative Thinker</b>  
+  <em>AI Researcher · Deep Learning Enthusiast · Creative Engineer</em><br>
+  <em>B.Tech (AI & ML) · Passionate about Compressed Sensing, LLMs, and Research Automation</em>
+</p>
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/abhivyakti003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💡 About Me
+## 🧠 About Me
 
-- 🎓 B.Tech (AI & ML) | Researcher | Coder
-- 🔬 Passionate about AI, deep learning, and solving inverse problems
-- 🛠 Currently building: AI Auto-Researcher, CNN-based image reconstructor
-- ✍️ Writing: technical blogs & research articles
-- 📚 Learning: LLaMA, LangChain, FAISS, RAG
-
----
-
-### 🧠 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-282c34?style=for-the-badge&logo=data:image/svg+xml;base64,...&labelColor=green)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- 🔬 Research-driven developer exploring **inverse problems**, **AI automation**, and **neural decoders**
+- 🛠️ Currently building: **AI Auto-Researcher** — an agentic tool that turns topics into full research papers
+- 🎯 Focus: Deep Learning · Compressed Sensing · Transformers · RAG Pipelines
+- 🌱 Actively learning: **LLaMA**, **LangChain**, **Gemma**, **Multimodal Retrieval**
+- ✍️ Writing technical blogs & publishing research ideas into projects
 
 ---
 
-### 🚀 Projects I'm Proud Of
-[🧠 AI Auto-Researcher Agent](https://github.com/abhivyakti003/ai-auto-researcher)  
-> Auto-generates research papers from a topic using LangChain, GPT-4, FAISS, and Streamlit.
+## 🚀 Projects
 
-[📷 Compressed Sensing Image Reconstructor](https://github.com/abhivyakti003/cs-image-reconstruction)  
-> CNN-based decoder that reconstructs images from compressed measurements using hybrid loss.
+### 📘 [AI Auto-Researcher Agent](https://github.com/abhivyakti003/ai-auto-researcher)
+> Multi-agent system that converts topics into research papers using LangChain, GPT-4, FAISS, and Streamlit UI.
 
-[🔤 Handwritten Letters Generator](https://github.com/abhivyakti003/letter-generator)  
-> Monochrome generator for AI training with y-measurements and fixed sensing matrix.
+### 📷 [Compressed Sensing Image Reconstructor](https://github.com/abhivyakti003/cs-image-reconstruction)
+> Deep unrolled optimization model that reconstructs 64×64 images from compressed measurements with hybrid loss.
+
+### 🔡 [Monochrome Character Generator](https://github.com/abhivyakti003/letter-generator)
+> Generates training-ready letter & digit images + compressed `y` vectors from a sensing matrix.
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhivyakti003&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhivyakti003&layout=compact&theme=radical" height="150"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-5E17EB?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0062FF?style=for-the-badge&logo=vector&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)  
-📧 Email: yourname@example.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhivyakti003&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhivyakti003&theme=gruvbox&hide_border=true" width="48%" />
+</p>
 
 ---
 
-*Let's build a better future with AI 💡*
+## 📌 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
+- ✉️ Email: your.email@example.com
+- 🌐 [Portfolio or Blog (optional)](https://your-portfolio.com)
+
+---
+
+<p align="center">
+  <i>“Empowering machines to think, learn, and create.”</i>
+</p>
