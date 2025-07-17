@@ -1,72 +1,61 @@
-<h1 align="center">👋 Hi, I'm Abhivyakti</h1>
+<h1 align="center">Hi there, I'm Abhivyakti! 👋</h1>
 
 <p align="center">
-  <em>AI Researcher · Deep Learning Enthusiast · Creative Engineer</em><br>
-  <em>B.Tech (AI & ML) · Passionate about Compressed Sensing, LLMs, and Research Automation</em>
-</p>
+  Welcome to my GitHub! I’m a passionate <strong>Software Engineer</strong> and <strong>Machine Learning Engineer</strong> dedicated to building intelligent, impactful, and scalable AI solutions.<br>
+Here, you'll find my work in <strong>compressed sensing, deep learning, LangChain, and autonomous AI agents</strong> — driven by curiosity and a strong inclination toward AI research.
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abhivyakti003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
-- 🔬 Research-driven developer exploring **inverse problems**, **AI automation**, and **neural decoders**
-- 🛠️ Currently building: **AI Auto-Researcher** — an agentic tool that turns topics into full research papers
-- 🎯 Focus: Deep Learning · Compressed Sensing · Transformers · RAG Pipelines
-- 🌱 Actively learning: **LLaMA**, **LangChain**, **Gemma**, **Multimodal Retrieval**
-- ✍️ Writing technical blogs & publishing research ideas into projects
-
----
-
-## 🚀 Projects
-
-### 📘 [AI Auto-Researcher Agent](https://github.com/abhivyakti003/ai-auto-researcher)
-> Multi-agent system that converts topics into research papers using LangChain, GPT-4, FAISS, and Streamlit UI.
-
-### 📷 [Compressed Sensing Image Reconstructor](https://github.com/abhivyakti003/cs-image-reconstruction)
-> Deep unrolled optimization model that reconstructs 64×64 images from compressed measurements with hybrid loss.
-
-### 🔡 [Monochrome Character Generator](https://github.com/abhivyakti003/letter-generator)
-> Generates training-ready letter & digit images + compressed `y` vectors from a sensing matrix.
+- 🎓 **Current Focus**: Delving deep into AI research, image reconstruction, and automated research workflows.
+- 💼 **Projects**: Contributor for GirlScript Summer of Code 2024 - Extended Edition.
+- 🌐 **Tech Explorer**: Enthusiastic about LLMs, LangChain, HuggingFace, and deploying intelligent agents.
+- 💡 **Passions**: Blending research, creativity, and automation to push AI boundaries.
+- 🎯 **Goals**: Build meaningful AI tools that scale, assist, and innovate — responsibly.
 
 ---
 
-## 🧰 Technologies & Tools
+## 🔧 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-5E17EB?style=for-the-badge&logo=LangChain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0062FF?style=for-the-badge&logo=vector&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+• Languages: Python, Java, HTML, CSS, JavaScript, C
+
+• Frameworks & Libraries: PyTorch, TensorFlow, Keras, Flask, LangChain, HuggingFace, OpenCV
+
+• Cloud & DevOps: Microsoft Azure, GitHub Actions
+
+• Machine Learning: Deep Learning, Computer Vision, NLP, LLMs, Compressed Sensing, Unrolled Optimization
+
+• Tools & Platforms: Git, Streamlit, Jupyter Notebook, SQLite, Visual Studio Code
+
+---
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abhivyakti-949498262/
+- ✉️ Email: abhivyakti003@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhivyakti003&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhivyakti003&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhivyakti003&show_icons=true&theme=radical&hide_border=false&border_radius=12&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhivyakti003&theme=highcontrast&hide_border=false&border_radius=12" width="48%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhivyakti003&layout=compact&theme=radical&hide_border=false&border_radius=12" width="50%"/>
+</p>
 
-## 📌 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-- ✉️ Email: your.email@example.com
-- 🌐 [Portfolio or Blog (optional)](https://your-portfolio.com)
 
 ---
+
+<h3 align="center">🚀 Let’s Build Something Amazing Together!</h3>
 
 <p align="center">
-  <i>“Empowering machines to think, learn, and create.”</i>
+  <i>"Empowered by research, driven by curiosity."</i><br><br>
+  Feel free to explore my repositories, fork projects, contribute ideas, or just say hello! 😊
 </p>
