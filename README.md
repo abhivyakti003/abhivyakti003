@@ -78,10 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhivyakti003&layout=compact&theme=radical&hide_border=false&border_radius=12" width="50%" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhivyakti003&theme=react-dark&hide_border=true&area=true" width="96%" alt="Contribution graph" />
-</p>
-
 <!--
   🐍 Contribution snake: shows once the "Generate snake" GitHub Action has run.
   Steps: add .github/workflows/snake.yml to this repository, run it once from the
